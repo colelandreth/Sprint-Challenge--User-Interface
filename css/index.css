@@ -209,6 +209,49 @@ a {
 
 
 
+.top-content-about {
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 2%;
+    padding-left: 5%;
+}
 
+.top-two {
+    display: flex;
+    justify-content: space-evenly;
+}
 
+.top-two div{
+    border-bottom: 1px dashed black;
+    margin: 2%;
+}
+
+.bottom-two {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom-two div {
+    border-bottom: 1px dashed black;
+    margin: 2%;
+}
+
+button {
+    background-color: white;
+    border: 2px solid black;
+    margin: 5% 1% 5% 0;
+    font-size: 1.2em;
+    padding: 2%;
+    width: 150px;
+    border-radius: 14px;
+}
+
+.about-h2 {
+    margin-top: 5%;
+}
+
+.about-foot {
+    margin-top: 5%;
+}
 
