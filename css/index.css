@@ -148,7 +148,9 @@ footer nav a {
 /* My Code Starts*/
 
 header {
-    margin: 5%;
+    margin: 0 auto;
+    width: 800px;
+    padding-bottom: 3%;
 }
 
 nav {
@@ -255,3 +257,37 @@ button {
     margin-top: 5%;
 }
 
+.contact h2,p{
+    text-align: center;
+}
+
+
+.contact-form {
+    margin-top: 3%;
+}
+
+form {
+    margin-top: 5%;
+    text-align: center;
+}
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 2%; 
+    margin-bottom: 3%; 
+  }
+
+input[type=submit] {
+    background-color: white;
+    border: 1px solid black;
+    margin: 1%;
+    font-size: 15px;
+    padding: 2%;
+    width: auto;
+    border-radius: 14px;
+}
