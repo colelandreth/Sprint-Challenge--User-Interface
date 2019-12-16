@@ -257,10 +257,13 @@ button {
     margin-top: 5%;
 }
 
-.contact h2,p{
+.contact h2{
     text-align: center;
 }
 
+.contact p{
+    text-align: center;
+}
 
 .contact-form {
     margin-top: 3%;
